@@ -1,6 +1,7 @@
-var roastGive=0;
-while(roastGive<7){
-    console.log("ami paychi akta");
-    roastGive++
-    console.log(roastGive);
+
+//event nubers
+var numbers=2;
+while(numbers<=20){
+    console.log(numbers);
+    numbers +=2;
 }
